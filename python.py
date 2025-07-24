@@ -1,2 +1,2 @@
 print("hello python")
-print("my name is chuthiya ravish")
+print("my name is ravish")
